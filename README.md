@@ -17,5 +17,4 @@
 </a>
 
 ---
-#### Game:
-![](/tinder.gif)
+![](/swiper.gif)
